@@ -13,12 +13,9 @@ class Solution {
 		
 		for(Character a:ar) {
 			if(map.get(a)==1) {
-                n=s.indexOf(a);
-                break;
-			}else {
-                n=-1;
-            }
+                return s.indexOf(a);
+			}
 		}
-        return n;
+        return -1;
     }
 }
