@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Prem-QA-Java/leetCode/tree/master/0009-palindrome-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Prem-QA-Java/leetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prem-QA-Java/leetCode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prem-QA-Java/leetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prem-QA-Java/leetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
